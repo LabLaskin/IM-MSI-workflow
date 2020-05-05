@@ -1,0 +1,16 @@
+python -m pip install --upgrade pip;
+pip install scipy;
+pip install Pillow;
+pip install pandas;
+pip install matplotlib;
+pip install IPython;
+pip install numpy;
+pip install csv;
+pip install tkinter;
+pip install os;
+pip install glob;
+pip install sys;
+pip install time;
+pip install pathlib;
+pip install ipyparallel;
+pip install PyQt5;

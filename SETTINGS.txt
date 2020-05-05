@@ -1,0 +1,5 @@
+C:/MSIC_Master/Data
+C:/MSIC_Master/template.sky
+C:/MSIC_Master/SkylineDailyRunner.exe
+.png
+hot
